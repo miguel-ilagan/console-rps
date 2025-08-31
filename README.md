@@ -1,0 +1,2 @@
+# console-rps
+Practice javascript
